@@ -66,16 +66,6 @@ Includes real-time updates, authentication, and a clean UI.
 
 ---
 
-## 📊 **GitHub Stats**
-
-> (These work automatically when added to your README)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mskv17\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mskv17\&layout=compact\&theme=radical)
-
----
-
 ## 📫 **Connect with Me**
 
 * 🌐 Portfolio: [https://mskv17.github.io/portfolio/](https://mskv17.github.io/portfolio/)
