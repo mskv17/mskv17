@@ -44,7 +44,7 @@ Passionate about creating real-world solutions with clean code, secure systems, 
 Real-time messaging app with E2E encryption using public-private key mechanism.
 Handles online/offline delivery queue, presence detection, message status, and secure transmission.
 
-🔗 **Live:** [https://securotalks.netlify.app](https://securotalks.netlify.app) *(example – replace with your real link)*
+🔗 **Live:** [https://chat-app-4z3x.onrender.com](https://chat-app-4z3x.onrender.com) 
 
 ---
 
@@ -53,7 +53,7 @@ Handles online/offline delivery queue, presence detection, message status, and s
 A clean and functional blogging platform for writing, editing, and reading posts.
 Includes authentication, content editor, and responsive UI.
 
-🔗 **Live:** [https://blogsphere.app](https://blogsphere.app) *(replace with correct deployed link)*
+🔗 **Live:** [https://blogsphere-032t.onrender.com](https://blogsphere-032t.onrender.com/) 
 
 ---
 
@@ -62,7 +62,7 @@ Includes authentication, content editor, and responsive UI.
 A combo productivity tool for managing tasks and lightweight mail-style communication between users.
 Includes real-time updates, authentication, and a clean UI.
 
-🔗 **Live:** [https://your-todo-mail-app-link](https://your-todo-mail-app-link) *(replace with real deployment)*
+🔗 **Live:** [https://mskv-todo-84t8.onrender.com](https://mskv-todo-84t8.onrender.com) 
 
 ---
 
@@ -79,8 +79,8 @@ Includes real-time updates, authentication, and a clean UI.
 ## 📫 **Connect with Me**
 
 * 🌐 Portfolio: [https://mskv17.github.io/portfolio/](https://mskv17.github.io/portfolio/)
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(replace)*
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com) *(replace)*
+* 💼 LinkedIn: [www.linkedin.com/in/muhammed-sinan-k-v-119057375](www.linkedin.com/in/muhammed-sinan-k-v-119057375)
+* 📧 Email: [muhammedsinankv06@gmail.com](mailto:muhammedsinankv06@gmail.com) 
 
 ---
 
