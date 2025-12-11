@@ -11,9 +11,9 @@ Passionate about creating real-world solutions with clean code, secure systems, 
 
 ### **Frontend**
 
-* React.js, Next.js
+* React.js
 * JavaScript (ES6+), TypeScript
-* HTML5, CSS3, Tailwind CSS
+* HTML5, CSS3, Bootstrap CSS
 
 ### **Backend**
 
